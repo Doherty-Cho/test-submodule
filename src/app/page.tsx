@@ -1,4 +1,4 @@
-import { Button } from "../../shared-components/src/components";
+import { Button } from "@shared-components/components";
 
 export default function Home() {
   return <Button />;
